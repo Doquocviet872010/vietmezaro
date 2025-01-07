@@ -1,0 +1,6 @@
+Config = {
+    namescript = "vietmezarovietmezaro",--Tên Script
+    logoscript = "130035079280846",--ID Logo Script
+    tacgia = "việtviệt"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
